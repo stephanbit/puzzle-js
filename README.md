@@ -5,7 +5,8 @@
 # PuzzleJs Framework
 Micro frontend framework for scalable and blazing fast websites.
 
-[![CircleCI](https://circleci.com/gh/puzzle-js/puzzle-js/tree/master.svg?style=svg)](https://circleci.com/gh/puzzle-js/puzzle-js/tree/master) 
+[![CircleCI](https://circleci.com/gh/puzzle-js/puzzle-js/tree/master.svg?style=svg)](https://circleci.com/gh/puzzle-js/puzzle-js/tree/master) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstephanbit%2Fpuzzle-js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstephanbit%2Fpuzzle-js?ref=badge_shield)
+
 [![npm](https://img.shields.io/npm/dt/puzzle-microfrontends.svg)](https://www.npmjs.com/package/@puzzle-js/core) 
 [![npm](https://img.shields.io/npm/v/puzzle-microfrontends.svg)](https://www.npmjs.com/package/@puzzle-js/core) 
 [![Known Vulnerabilities](https://snyk.io/test/github/puzzle-js/puzzle-js/badge.svg)](https://snyk.io/test/github/puzzle-js/puzzle-js)
@@ -78,3 +79,7 @@ Read the [guide](./docs/guide.md) to familiarize yourself with how PuzzleJs work
 
 ### Contributions
 Feel free to contribute to PuzzleJs, please read [Contributions](./docs/contributions.md) for detailed information.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fstephanbit%2Fpuzzle-js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fstephanbit%2Fpuzzle-js?ref=badge_large)
